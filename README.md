@@ -24,17 +24,3 @@ FROM tabela1
 LEFT JOIN tabela2 ON tabela1.coluna = tabela2.coluna
 ```
 Também entendi sobre right join, mas eu precisaria consultar anotações para conseguir escrever o código.
-
-
-
-
-
-
-
-
-
-
-Na aula, eu entendi que:
-
-- chaves estrangeiras e relacionamentos são essenciais para que uma JOIN aconteça;
-- 
